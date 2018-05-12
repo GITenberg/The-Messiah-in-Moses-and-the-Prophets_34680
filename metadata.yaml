@@ -1,0 +1,31 @@
+_repo: The-Messiah-in-Moses-and-the-Prophets_34680
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lord, Eleazar
+    alias: Lord, E. (Eleazar)
+    birthdate: 1788
+    deathdate: 1871
+    gutenberg_agent_id: '37168'
+    url: http://www.gutenberg.org/2009/agents/37168
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2010-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34680'
+  lccn: '35024720'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Old Testament -- Prophecies'
+- !lcc 'BT'
+- !lcsh 'Messiah -- Prophecies'
+- !lcsh 'Bible -- Prophecies'
+title: The Messiah in Moses and the Prophets
+url: http://www.gutenberg.org/ebooks/34680
